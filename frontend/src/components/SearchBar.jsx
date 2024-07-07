@@ -12,7 +12,7 @@ function SearchBar({ setCity, setSwitchHotel }) {
         <div className="search">
           <div className="container">
             <label>
-              Activité
+              Activité ou lieu à visiter
               <input type="text" placeholder="Monument" />
             </label>
           </div>
