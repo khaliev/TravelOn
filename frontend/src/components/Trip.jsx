@@ -1,4 +1,4 @@
-import PropTypes from "prop-types";
+eimport PropTypes from "prop-types";
 
 function Trip({ cityDatas }) {
   return cityDatas.map((cityData) => (
@@ -14,7 +14,7 @@ function Trip({ cityDatas }) {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Reservation
+            Réservation
           </a>
         </div>
       </figure>
