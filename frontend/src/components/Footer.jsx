@@ -2,8 +2,8 @@ function Footer() {
   return (
     <div className="footer">
       <div className="top">
-        <h1>TravelON</h1>
-        <p>Choisissez votre destination favorite</p>
+        <h1>TravelOn</h1>
+        <p>Chosissez votre destination favorite</p>
       </div>
       <div className="socialmedia">
         <a href="/">
