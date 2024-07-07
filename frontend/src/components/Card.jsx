@@ -15,7 +15,7 @@ function Card({ cityDatas }) {
         <div className="cardBody">
           <p>Vous etes à {cityData.distance} </p> <br />
           <p>{cityData.description}</p> <br />
-          <button type="button">Reservation</button>
+          <button type="button">Réservation</button>
         </div>
       </figure>
     </li>
