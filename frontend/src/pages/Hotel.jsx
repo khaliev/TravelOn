@@ -7,9 +7,9 @@ function Hotel({ cityDatas }) {
         <figcaption>{cityData.name}</figcaption>
         <img src={cityData.photo_url} alt={cityData.name} />
         <div>
-          <p>Vous ète à {cityData.distance}</p> <br />
+          <p>Vous êtes à {cityData.distance}</p> <br />
           <p>{cityData.description}</p> <br />
-          <button type="button">Reservation</button>
+          <button type="button">Réservation</button>
         </div>
       </figure>
     </li>
